@@ -1,19 +1,21 @@
 about:
-  description: A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
+  description:
+  |
+    A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
   license: Apache-2.0
   homepage: https://pemistahl.github.io/grex-js/
   head: 99cc347
   archived: false
   latestVersion: v1.4.6
-  collectedAt: 2026-09-03T05:14:28Z
+  collectedAt: 2026-09-03T22:34:50Z
 timeline:
   created: 2019-10-05
   lastCommit: 2026-01-14
   lastRelease: 2025-11-14
 popularity:
-  star: 8178
+  star: 8179
   watcher: 43
-  fork: 197
+  fork: 198
   release: 16
   contributor: 9
   pullRequest: 113
@@ -21,7 +23,7 @@ popularity:
 language:
   Rust: 442600
   Python: 17043
-totalLine: 459643
+totalBytes: 459643
 recent:
   last30d:
     since: 2026-08-04
