@@ -5,13 +5,13 @@ about:
   head: 99cc347
   archived: false
   latestVersion: "v1.4.6"
-  collectedAt: 2026-09-07T04:50:10Z
+  collectedAt: 2026-09-07T19:41:19Z
 timeline:
   created: 2019-10-05
   lastCommit: 2026-01-14
   lastRelease: 2025-11-14
 popularity:
-  star: 8184
+  star: 8183
   watcher: 44
   fork: 198
   release: 16
@@ -80,7 +80,7 @@ total:
   commit: 445
 ---
 path: /home/runner/.x-repo/github.com/pemistahl/grex
-collectedAt: 2026-09-07T04:50:11Z
+collectedAt: 2026-09-07T19:41:20Z
 loc:
   Rust:
     code: 10913
@@ -236,7 +236,7 @@ checks:
       - 'Warn: 0 commits out of 11 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:50:13+00:00
+  collectedAt: 2026-09-07T19:41:21+00:00
   platform:
     darwin/arm64:
       name:  grex-v1.4.6-aarch64-apple-darwin.tar.gz
