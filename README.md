@@ -23,11 +23,21 @@ x install grex
 - **Latest**: `v1.4.6` (2025-11-14)
 - **Last commit**: 2026-01-14
 - **Assets in release**: 6
-- **Published**: 2025-11-14T12:22:19Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [grex-v1.4.6-aarch64-apple-darwin.tar.gz](https://github.com/pemistahl/grex/releases/download/v1.4.6/grex-v1.4.6-aarch64-apple-darwin.tar.gz) | 1.1 MiB | `native/darwin/arm64` |
+| [grex-v1.4.6-aarch64-pc-windows-msvc.zip](https://github.com/pemistahl/grex/releases/download/v1.4.6/grex-v1.4.6-aarch64-pc-windows-msvc.zip) | 929.5 KiB | `native/win/arm64` |
+| [grex-v1.4.6-aarch64-unknown-linux-musl.tar.gz](https://github.com/pemistahl/grex/releases/download/v1.4.6/grex-v1.4.6-aarch64-unknown-linux-musl.tar.gz) | 1.2 MiB | `native/linux/arm64/musl` |
+| [grex-v1.4.6-x86_64-apple-darwin.tar.gz](https://github.com/pemistahl/grex/releases/download/v1.4.6/grex-v1.4.6-x86_64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/x64` |
+| [grex-v1.4.6-x86_64-pc-windows-msvc.zip](https://github.com/pemistahl/grex/releases/download/v1.4.6/grex-v1.4.6-x86_64-pc-windows-msvc.zip) | 1005.8 KiB | `native/win/x64` |
+| [grex-v1.4.6-x86_64-unknown-linux-musl.tar.gz](https://github.com/pemistahl/grex/releases/download/v1.4.6/grex-v1.4.6-x86_64-unknown-linux-musl.tar.gz) | 1.3 MiB | `native/linux/x64/musl` |
 
 ## Popularity
 
-- **Stars**: 8,184 · **Forks**: 198 · **Open issues**: 59 · **Contributors**: 9
+- **Stars**: 8,182 · **Forks**: 198 · **Open issues**: 59 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -68,8 +78,8 @@ Lowest-scoring checks:
 Install metadata for grex lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `grex` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/grex.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/grex.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:07:09Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:33:07Z._
