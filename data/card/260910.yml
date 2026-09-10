@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.4.6"
   latestRelease: "v1.4.6"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:40:06Z
+  collectedAt: 2026-09-10T22:13:04Z
 timeline:
   created: 2019-10-05
   lastCommit: 2026-01-14
@@ -84,7 +84,7 @@ total:
   commit: 445
 ---
 path: /home/runner/.x-repo/github.com/pemistahl/grex
-collectedAt: 2026-09-10T21:40:08Z
+collectedAt: 2026-09-10T22:13:05Z
 loc:
   Rust:
     code: 10913
