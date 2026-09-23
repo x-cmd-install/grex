@@ -4,7 +4,7 @@
 
 A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 
-[![x-cmd/install — grex Code Quality Monitoring Repo Card](https://repo.x-cmd.io/grex.svg)](https://x-cmd.com/install/grex)
+[![x-cmd/install — grex Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/grex.svg)](https://x-cmd.com/install/grex)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,196 · **Forks**: 196 · **Open issues**: 59 · **Contributors**: 9
+- **Stars**: 8,197 · **Forks**: 198 · **Open issues**: 59 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 177 · **Open PRs**: 10 · **Closed issues**: 51 · **Open issues**: 8 · **Commits**: 445
+- **Releases**: 16 · **Merged PRs**: 177 · **Open PRs**: 11 · **Closed issues**: 51 · **Open issues**: 8 · **Commits**: 445
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 1 | 7 | 9 | 2 | 0 | 21 |
-| last720d | 2024-10-02 | 1 | 16 | 10 | 6 | 0 | 40 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 1 | 7 | 10 | 2 | 0 | 21 |
+| last720d | 2024-10-03 | 1 | 16 | 11 | 6 | 0 | 40 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for grex lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:09:28Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:10:36Z._
