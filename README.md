@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,211 · **Forks**: 201 · **Open issues**: 60 · **Contributors**: 9
+- **Stars**: 8,213 · **Forks**: 200 · **Open issues**: 60 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-08-07 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 90d | 2026-07-08 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last180d | 2026-04-09 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 360d | 2025-10-11 | 1 | 6 | 12 | 2 | 1 | 18 |
-| last720d | 2024-10-16 | 1 | 15 | 13 | 6 | 1 | 38 |
+| 30d | 2026-09-07 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-08-08 | 0 | 0 | 3 | 0 | 1 | 0 |
+| 90d | 2026-07-09 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last180d | 2026-04-10 | 0 | 0 | 3 | 0 | 1 | 0 |
+| 360d | 2025-10-12 | 1 | 6 | 12 | 2 | 1 | 18 |
+| last720d | 2024-10-17 | 1 | 15 | 13 | 6 | 1 | 38 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for grex lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:31:10Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:05:39Z._
