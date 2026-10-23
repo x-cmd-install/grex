@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,277 · **Forks**: 201 · **Open issues**: 60 · **Contributors**: 9
+- **Stars**: 8,280 · **Forks**: 200 · **Open issues**: 60 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 360d | 2025-10-27 | 1 | 3 | 12 | 1 | 1 | 17 |
-| last720d | 2024-11-01 | 1 | 15 | 13 | 6 | 1 | 38 |
+| 30d | 2026-09-23 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 3 | 0 | 1 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 3 | 0 | 1 | 0 |
+| 360d | 2025-10-28 | 1 | 3 | 12 | 1 | 1 | 17 |
+| last720d | 2024-11-02 | 1 | 15 | 13 | 6 | 1 | 38 |
 
 ## Release assets
 
@@ -76,6 +76,18 @@ Lowest-scoring checks:
 | [grex-v1.4.6-x86_64-pc-windows-msvc.zip](https://github.com/pemistahl/grex/releases/download/v1.4.6/grex-v1.4.6-x86_64-pc-windows-msvc.zip) | 1005.8 KiB | `native/win/x64` |
 | [grex-v1.4.6-x86_64-unknown-linux-musl.tar.gz](https://github.com/pemistahl/grex/releases/download/v1.4.6/grex-v1.4.6-x86_64-unknown-linux-musl.tar.gz) | 1.3 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **35** distros on [repology.org](https://repology.org/project/grex). **21** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.4.6` | ✅ latest |
+| Homebrew | `1.4.6` | ✅ latest |
+| Nix unstable | `1.4.6` | ✅ latest |
+| Void | `1.4.6` | ✅ latest |
+| openSUSE Tumbleweed | `1.4.6` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for grex lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `grex` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +97,4 @@ Install metadata for grex lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:53:15Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:55:36Z._
