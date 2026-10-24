@@ -90,18 +90,6 @@
     - Unlicense
   categories:
     - dev-util
-- repo: nix_unstable
-  srcname: grex
-  visiblename: grex
-  version: 1.4.6
-  origversion: null
-  status: newest
-  summary: Command-line tool for generating regular expressions from user-provided test cases
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - falakreyaz@gmail.com
-  licenses:
-    - Apache-2.0
 - repo: liguros_stable
   srcname: dev-util/grex
   visiblename: dev-util/grex
@@ -121,6 +109,19 @@
     - Unlicense
   categories:
     - dev-util
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: grex
+  binname: grex
+  visiblename: grex
+  version: 1.4.6
+  origversion: 1.4.6_1
+  status: newest
+  summary: Tool for generating regular expressions from user-provided test cases
+  maintainers:
+    - bnyro@tutanota.com
+  licenses:
+    - Apache-2.0
 - repo: liguros_develop
   srcname: dev-util/grex
   visiblename: dev-util/grex
@@ -266,15 +267,18 @@
     - falakreyaz@gmail.com
   licenses:
     - Apache-2.0
-- repo: wakemeops
-  subrepo: terminal
-  binname: grex
+- repo: nix_unstable
+  srcname: grex
   visiblename: grex
-  version: 1.3.0
-  origversion: 1.3.0-1~ops2deb
-  status: legacy
+  version: 1.4.6
+  origversion: null
+  status: newest
+  summary: Command-line tool for generating regular expressions from user-provided test cases
   maintainers:
-    - ops2deb@upciti.com
+    - sandro.jaeckel@gmail.com
+    - falakreyaz@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: opensuse_leap_15_6
   subrepo: main/oss
   srcname: grex
@@ -323,6 +327,16 @@
   status: newest
   licenses:
     - Apache-2.0
+- repo: starkos
+  subrepo: main
+  srcname: grex
+  visiblename: grex
+  version: 1.4.6
+  origversion: 1.4.6-1
+  status: newest
+  summary: A command-line tool for generating regular expressions from user-provided input strings
+  maintainers:
+    - starkos@disroot.org
 - repo: termux
   srcname: grex
   binname: grex
@@ -333,19 +347,6 @@
   summary: Simplifies the task of creating regular expressions
   maintainers:
     - termux@github
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: grex
-  binname: grex
-  visiblename: grex
-  version: 1.4.6
-  origversion: 1.4.6_1
-  status: newest
-  summary: Tool for generating regular expressions from user-provided test cases
-  maintainers:
-    - bnyro@tutanota.com
-  licenses:
-    - Apache-2.0
 - repo: vylen
   subrepo: extra
   srcname: grex
@@ -407,6 +408,15 @@
   visiblename: grex
   version: 1.4.0
   origversion: 1.4.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: grex
+  visiblename: grex
+  version: 1.3.0
+  origversion: 1.3.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
