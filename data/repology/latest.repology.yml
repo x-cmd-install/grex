@@ -1,3 +1,39 @@
+- repo: wakemeops
+  subrepo: terminal
+  binname: grex
+  visiblename: grex
+  version: 1.4.2
+  origversion: 1.4.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: grex
+  visiblename: grex
+  version: 1.4.1
+  origversion: 1.4.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: grex
+  visiblename: grex
+  version: 1.4.0
+  origversion: 1.4.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: grex
+  visiblename: grex
+  version: 1.3.0
+  origversion: 1.3.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: altsisyphus
   srcname: grex
   binnames:
@@ -109,19 +145,6 @@
     - Unlicense
   categories:
     - dev-util
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: grex
-  binname: grex
-  visiblename: grex
-  version: 1.4.6
-  origversion: 1.4.6_1
-  status: newest
-  summary: Tool for generating regular expressions from user-provided test cases
-  maintainers:
-    - bnyro@tutanota.com
-  licenses:
-    - Apache-2.0
 - repo: liguros_develop
   srcname: dev-util/grex
   visiblename: dev-util/grex
@@ -160,6 +183,16 @@
     - Unlicense
   categories:
     - dev-util
+- repo: termux
+  srcname: grex
+  binname: grex
+  visiblename: grex
+  version: 1.4.6
+  origversion: null
+  status: newest
+  summary: Simplifies the task of creating regular expressions
+  maintainers:
+    - termux@github
 - repo: macports
   srcname: textproc/grex
   binname: grex
@@ -179,23 +212,23 @@
   srcname: grex
   binname: grex
   visiblename: grex
-  version: 1.4.6
-  origversion: 1.4.6-2
-  status: newest
+  version: 1.4.4
+  origversion: 1.4.4-1
+  status: outdated
   summary: A command-line tool for generating regular expressions from user-provided input strings
   licenses:
-    - Apache-2.0
+    - Apache
 - repo: manjaro_testing
   subrepo: extra
   srcname: grex
   binname: grex
   visiblename: grex
-  version: 1.4.6
-  origversion: 1.4.6-2
-  status: newest
+  version: 1.4.4
+  origversion: 1.4.4-1
+  status: outdated
   summary: A command-line tool for generating regular expressions from user-provided input strings
   licenses:
-    - Apache-2.0
+    - Apache
 - repo: manjaro_unstable
   subrepo: extra
   srcname: grex
@@ -337,16 +370,19 @@
   summary: A command-line tool for generating regular expressions from user-provided input strings
   maintainers:
     - starkos@disroot.org
-- repo: termux
+- repo: void_x86_64
+  subrepo: x86_64
   srcname: grex
   binname: grex
   visiblename: grex
   version: 1.4.6
-  origversion: null
+  origversion: 1.4.6_1
   status: newest
-  summary: Simplifies the task of creating regular expressions
+  summary: Tool for generating regular expressions from user-provided test cases
   maintainers:
-    - termux@github
+    - bnyro@tutanota.com
+  licenses:
+    - Apache-2.0
 - repo: vylen
   subrepo: extra
   srcname: grex
@@ -381,42 +417,6 @@
   visiblename: grex
   version: 1.4.4
   origversion: 1.4.4-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: grex
-  visiblename: grex
-  version: 1.4.2
-  origversion: 1.4.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: grex
-  visiblename: grex
-  version: 1.4.1
-  origversion: 1.4.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: grex
-  visiblename: grex
-  version: 1.4.0
-  origversion: 1.4.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: grex
-  visiblename: grex
-  version: 1.3.0
-  origversion: 1.3.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
