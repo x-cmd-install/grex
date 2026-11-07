@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,299 · **Forks**: 198 · **Open issues**: 62 · **Contributors**: 9
+- **Stars**: 8,300 · **Forks**: 198 · **Open issues**: 62 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last60d | 2026-09-07 | 0 | 0 | 3 | 0 | 3 | 0 |
-| 90d | 2026-08-08 | 0 | 0 | 3 | 0 | 3 | 0 |
-| last180d | 2026-05-10 | 0 | 0 | 3 | 0 | 3 | 0 |
-| 360d | 2025-11-11 | 1 | 2 | 12 | 1 | 3 | 15 |
-| last720d | 2024-11-16 | 1 | 15 | 12 | 6 | 3 | 38 |
+| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last60d | 2026-09-08 | 0 | 0 | 3 | 0 | 3 | 0 |
+| 90d | 2026-08-09 | 0 | 0 | 3 | 0 | 3 | 0 |
+| last180d | 2026-05-11 | 0 | 0 | 3 | 0 | 3 | 0 |
+| 360d | 2025-11-12 | 1 | 2 | 12 | 1 | 3 | 15 |
+| last720d | 2024-11-17 | 1 | 15 | 12 | 6 | 3 | 38 |
 
 ## Release assets
 
@@ -78,7 +78,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/grex). **20** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **36** distros on [repology.org](https://repology.org/project/grex). **22** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -97,4 +97,4 @@ Install metadata for grex lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:53:29Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:09:35Z._
